@@ -1,0 +1,7 @@
+D:\practice project\Phase1Section4.15\Phase1Section4.15\bin\Debug\Phase1Section4.15.exe.config
+D:\practice project\Phase1Section4.15\Phase1Section4.15\bin\Debug\Phase1Section4.15.exe
+D:\practice project\Phase1Section4.15\Phase1Section4.15\bin\Debug\Phase1Section4.15.pdb
+D:\practice project\Phase1Section4.15\Phase1Section4.15\obj\Debug\Phase1Section4.15.csproj.AssemblyReference.cache
+D:\practice project\Phase1Section4.15\Phase1Section4.15\obj\Debug\Phase1Section4.15.csproj.CoreCompileInputs.cache
+D:\practice project\Phase1Section4.15\Phase1Section4.15\obj\Debug\Phase1Section4.15.exe
+D:\practice project\Phase1Section4.15\Phase1Section4.15\obj\Debug\Phase1Section4.15.pdb
